@@ -49,7 +49,7 @@ _GDC2010_ Insomniac [A Dynamic Component Architecture for High Performance Gamep
 
 [CppCon 2014 Presentation Materials](https://github.com/CppCon/CppCon2014)
 
-## Reverse Engineering
+## Games Hacking & Reverse Engineering
 
 [Crash Bandicoot Hacking Wikia](http://crash-hacking.wikia.com/wiki/Crash_Bandicoot_Hacking_Wikia)
 

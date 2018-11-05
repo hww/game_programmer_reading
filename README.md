@@ -6,6 +6,8 @@ Game development documentation and institutional collection
 
 [Game Engine Architecture by Jason Gregory](https://www.gameenginebook.com)
 
+[Artificial Intelligence A Modern Approach Third Edition](https://www.google.ru/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=2ahUKEwiuw9bFsL3eAhWyiqYKHYtPAigQFjAAegQICRAC&url=https%3A%2F%2Ffaculty.psau.edu.sa%2Ffiledownload%2Fdoc-7-pdf-a154ffbcec538a4161a406abf62f5b76-original.pdf&usg=AOvVaw0i7pLrlBs9LMW296xeV6b0)
+
 ## Articles
 
 [MAKING CRASH BANDICOOT BY ANDY GAVIN AND JASON RUBIN](https://www.naughtydog.com/blog/making_crash_bandicoot_by_andy_gavin_and_jason_rubin)

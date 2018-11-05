@@ -15,5 +15,7 @@ Game development documentation and institutional collection
 # Reverse Engineering
 
 [Crash Bandicoot Hacking Wikia](http://crash-hacking.wikia.com/wiki/Crash_Bandicoot_Hacking_Wikia)
+
 [Disassembling Jak & Daxter](https://github.com/rmitton/goaldis)
+
 [Disassembling Jak & Daxter - goaldis on GitHub](https://github.com/rmitton/goaldis)

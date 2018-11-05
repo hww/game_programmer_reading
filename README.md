@@ -10,12 +10,12 @@ Game development documentation and institutional collection
 
 [MAKING CRASH BANDICOOT BY ANDY GAVIN AND JASON RUBIN](https://www.naughtydog.com/blog/making_crash_bandicoot_by_andy_gavin_and_jason_rubin)
 
-NAUGHTY DOG [Parallelizing the Naughty Dog
+GDC2015 NAUGHTY DOG [Parallelizing the Naughty Dog
 engine using fibers](https://github.com/hww/game_programmer_reading/tree/master/nd/GDC_Parallelizing_The_Naughty_Gyrling_Christian.pdf)
 
 GDC2008 NAUGHTY DOG [Adventures in Data Compilation](https://github.com/hww/game_programmer_reading/tree/master/nd/Naughty-Dog-GDC08-Adventures-In-Data-Compilation.pdf)
 
-NAUGHTY DOG [
+GDC2008 NAUGHTY DOG [
 Uncharted: Drake’s Fortune - Amazing Feats of Daring](https://github.com/hww/game_programmer_reading/tree/master/nd/Naughty-Dog-GDC08-Amazing-Feats-of-Daring-Uncharted-Postmortem.pdf)
 
 GDC2008 NAUGHTY DOG [Creating a Characterin Uncharted:Drake’s Fortune](https://github.com/hww/game_programmer_reading/tree/master/nd/Naughty-Dog-GDC08-Creating-a-Character-in-Drakes-Fortune.pdf)

@@ -31,7 +31,7 @@ GDC2008 NAUGHTY DOG [The Technology of Uncharted: Drake’s Fortune](https://git
 
 GDC2009 NAUGHTY DOG [State Based Scripting in UNCHARTED 2](https://github.com/hww/game_programmer_reading/tree/master/nd)
 
-GDC2003 NAUGHTY DOG [The Technology of Jack & Daxter](https://github.com/hww/game_programmer_reading/tree/master/nd/The Technology of Jak_Daxter, Stephen White (GDC 2003).pdf)
+GDC2003 NAUGHTY DOG [The Technology of Jack & Daxter](https://github.com/hww/game_programmer_reading/tree/master/nd/Naughty-Dog-GDC03-The-Technology-of-Jak-Daxter.pdf)
 
 GC2010 Insomniac [A Dynamic Component Architecture for High Performance Gameplay](https://github.com/hww/game_programmer_reading/tree/master/insomniac/Terrance_Cohen_DynamicComponentArchitecture.pdf)
 

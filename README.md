@@ -37,6 +37,8 @@ GC2010 Insomniac [A Dynamic Component Architecture for High Performance Gameplay
 
 ## CppCon
 
+[CppCon 2018 Presentation Materials](https://github.com/CppCon/CppCon2018)
+
 ## Reverse Engineering
 
 [Crash Bandicoot Hacking Wikia](http://crash-hacking.wikia.com/wiki/Crash_Bandicoot_Hacking_Wikia)

@@ -10,9 +10,9 @@ Game development documentation and institutional collection
 
 [MAKING CRASH BANDICOOT BY ANDY GAVIN AND JASON RUBIN](https://www.naughtydog.com/blog/making_crash_bandicoot_by_andy_gavin_and_jason_rubin)
 
-Articles by [NAUGHTY DOG](https://github.com/hww/game_programmer_reading/tree/master/nd)
+[NAUGHTY DOG](https://github.com/hww/game_programmer_reading/tree/master/nd)
 
-Articles by [Insomniac Games](https://github.com/hww/game_programmer_reading/tree/master/insomniac)
+[Insomniac Games](https://github.com/hww/game_programmer_reading/tree/master/insomniac)
 
 # CppCon
 

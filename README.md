@@ -60,7 +60,7 @@ _GDC2010_ Insomniac [A Dynamic Component Architecture for High Performance Gamep
 
 ## LISP & 3D
 
-Fun LISP cource from [Baggers](https://github.com/cbaggers)
+Fun LISP course from [Baggers](https://github.com/cbaggers)
 
 [Installing Common Lisp, Emacs, Slime & Quicklisp](https://www.youtube.com/playlist?list=PL2VAYZE_4wRIoHsU5cEBIxCYcbHzy4Ypj)
 

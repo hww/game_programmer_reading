@@ -1,2 +1,3 @@
-# game_programmer_reading
+# Game Programmer Reading
+
 Game development documentation and institutional collection 

@@ -56,3 +56,16 @@ _GDC2010_ Insomniac [A Dynamic Component Architecture for High Performance Gamep
 [Disassembling Jak & Daxter](https://github.com/rmitton/goaldis)
 
 [Disassembling Jak & Daxter - goaldis on GitHub](https://github.com/rmitton/goaldis)
+
+
+## LISP & 3D
+
+Fun LISP cource from [Baggers](https://github.com/cbaggers)
+
+[Installing Common Lisp, Emacs, Slime & Quicklisp](https://www.youtube.com/playlist?list=PL2VAYZE_4wRIoHsU5cEBIxCYcbHzy4Ypj)
+
+[Pushing Pixels With Lisp](https://www.youtube.com/playlist?list=PL2VAYZE_4wRITJBv6saaKouj4sWSG1FcS)
+
+[Little Bits of Lisp](https://www.youtube.com/playlist?list=PL2VAYZE_4wRJi_vgpjsH75kMhN4KsuzR_)
+
+[CEPL](https://www.youtube.com/playlist?list=PL2VAYZE_4wRKKr5pJzfYD1w4tKCXARs5y)

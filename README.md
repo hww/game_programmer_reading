@@ -37,6 +37,10 @@ _GDC2003_ NAUGHTY DOG [The Technology of Jack & Daxter](https://github.com/hww/g
 
 _GDC2010_ Insomniac [A Dynamic Component Architecture for High Performance Gameplay](https://github.com/hww/game_programmer_reading/tree/master/insomniac/Terrance_Cohen_DynamicComponentArchitecture.pdf)
 
+_gamasutra_ [The Secrets Of Enemy AI In Uncharted 2] 
+(https://www.gamasutra.com/view/feature/134566/the_secrets_of_enemy_ai_in_.php)
+ by Benson Russell
+
 ## CppCon
 
 [CppCon 2018 Presentation Materials](https://github.com/CppCon/CppCon2018)

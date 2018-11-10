@@ -40,6 +40,10 @@ _GDC2010_ Insomniac [A Dynamic Component Architecture for High Performance Gamep
 _gamasutra_ [The Secrets Of Enemy AI In Uncharted 2](https://www.gamasutra.com/view/feature/134566/the_secrets_of_enemy_ai_in_.php)
  by Benson Russell
 
+## C++
+
+[Cpp Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md)
+
 ## CppCon
 
 [CppCon 2018 Presentation Materials](https://github.com/CppCon/CppCon2018)
@@ -72,3 +76,5 @@ Fun LISP course from [Baggers](https://github.com/cbaggers)
 [Little Bits of Lisp](https://www.youtube.com/playlist?list=PL2VAYZE_4wRJi_vgpjsH75kMhN4KsuzR_)
 
 [CEPL](https://www.youtube.com/playlist?list=PL2VAYZE_4wRKKr5pJzfYD1w4tKCXARs5y)
+
+

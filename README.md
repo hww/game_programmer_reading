@@ -44,6 +44,11 @@ _gamasutra_ [The Secrets Of Enemy AI In Uncharted 2](https://www.gamasutra.com/v
 
 [Cpp Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md)
 
+[C++ reference](https://en.cppreference.com/w/)
+
+[News, Status & Discussion about Standard C++](https://isocpp.org)
+
+
 ## CppCon
 
 [CppCon 2018 Presentation Materials](https://github.com/CppCon/CppCon2018)

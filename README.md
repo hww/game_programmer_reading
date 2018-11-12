@@ -40,13 +40,13 @@ _GDC2010_ Insomniac [A Dynamic Component Architecture for High Performance Gamep
 _gamasutra_ [The Secrets Of Enemy AI In Uncharted 2](https://www.gamasutra.com/view/feature/134566/the_secrets_of_enemy_ai_in_.php)
  by Benson Russell
 
-##  nteractive Cinematics
+## Interactive Cinematics
 
-_2108_ [INTERACTIVE CINEMATICS IN UNCHARTED](http://www.gameanim.com/2018/03/09/interactive-cinematics-in-uncharted-4/)
+_2108_ NAUGHTY DOG [INTERACTIVE CINEMATICS IN UNCHARTED](http://www.gameanim.com/2018/03/09/interactive-cinematics-in-uncharted-4/)
 
-_2016_ [UNCHARTED 2: CREATING AN ACTIVE CINEMATIC EXPERIENCE](http://www.gameanim.com/2016/05/10/uncharted-2-creating-active-cinematic-experience/)
+_2016_ NAUGHTY DOG [UNCHARTED 2: CREATING AN ACTIVE CINEMATIC EXPERIENCE](http://www.gameanim.com/2016/05/10/uncharted-2-creating-active-cinematic-experience/)
 
-_2010_ [CINEMATICS SANS CUTSCENES](http://www.gameanim.com/2010/04/23/cinematics-sans-cutscenes/)
+_2010_ NAUGHTY DOG [CINEMATICS SANS CUTSCENES](http://www.gameanim.com/2010/04/23/cinematics-sans-cutscenes/)
 
 ## C++
 

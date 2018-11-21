@@ -100,6 +100,6 @@ Fun LISP course from [Baggers](https://github.com/cbaggers)
 
 [CEPL](https://www.youtube.com/playlist?list=PL2VAYZE_4wRKKr5pJzfYD1w4tKCXARs5y)
 
-## C## QUICK TIPS AND TRICKS
+## C++ QUICK TIPS AND TRICKS
 
 [The Rule Of Five](https://cpppatterns.com/patterns/rule-of-five.html)

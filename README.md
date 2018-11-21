@@ -1,4 +1,4 @@
-# Game Programmer Reading
+## Game Programmer Reading
 
 Game development documentation and institutional collection 
 
@@ -40,13 +40,23 @@ _GDC2010_ Insomniac [A Dynamic Component Architecture for High Performance Gamep
 _gamasutra_ [The Secrets Of Enemy AI In Uncharted 2](https://www.gamasutra.com/view/feature/134566/the_secrets_of_enemy_ai_in_.php)
  by Benson Russell
 
-## Interactive Cinematics
+## Guerrilla Games
+
+2018 [CREATING A TOOLS PIPELINE FOR HORIZON ZERO DAWN](https://d1z4o56rleaq4j.cloudfront.net/downloads/assets/GDC2017_Sumaili_VanDerSteen_CreatingAToolsPipelineForHorizonZeroDawn.pdf?mtime=20170307154856) _Decima: Review the tools and runtime engine_
+
+2017 [PUTTING THE AI BACK INTO AIR](https://www.guerrilla-games.com/read/putting-the-ai-back-into-air) _Air Natigating, Height Map Navigation wih Mipmaps, Path Finding_
+
+2017 [THE AI OF HORIZON ZERO DAWN](https://d1z4o56rleaq4j.cloudfront.net/downloads/assets/The-AI-of-Horizon-Zero-Dawn.pdf?mtime=20171123123153) _Agents, Hierarchical Task Network, Roles, Perception, Navigation_
+
+GCAP2017 [DECIMA VISIBILITY HORIZON ZERO DAWN](https://d1z4o56rleaq4j.cloudfront.net/downloads/assets/GCAP2017_DecimaVisibility.pdf?mtime=20171120133325)
+
+##  Interactive Cinematics
 
 _2108_ NAUGHTY DOG [INTERACTIVE CINEMATICS IN UNCHARTED](http://www.gameanim.com/2018/03/09/interactive-cinematics-in-uncharted-4/)
 
 _2016_ NAUGHTY DOG [UNCHARTED 2: CREATING AN ACTIVE CINEMATIC EXPERIENCE](http://www.gameanim.com/2016/05/10/uncharted-2-creating-active-cinematic-experience/)
 
-_2010_ [CINEMATICS SANS CUTSCENES](http://www.gameanim.com/2010/04/23/cinematics-sans-cutscenes/)
+_2010_ [CINEMATICS SANS CUTSCENES](http://www.gameanim.com/2010/04/23/cinematics-sans-cutscenes/) 
 
 ## C++
 
@@ -90,4 +100,6 @@ Fun LISP course from [Baggers](https://github.com/cbaggers)
 
 [CEPL](https://www.youtube.com/playlist?list=PL2VAYZE_4wRKKr5pJzfYD1w4tKCXARs5y)
 
+## C## QUICK TIPS AND TRICKS
 
+[The Rule Of Five](https://cpppatterns.com/patterns/rule-of-five.html)

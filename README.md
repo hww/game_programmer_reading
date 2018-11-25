@@ -8,6 +8,34 @@ Game development documentation and institutional collection
 
 [Artificial Intelligence A Modern Approach Third Edition](https://www.google.ru/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=2ahUKEwiuw9bFsL3eAhWyiqYKHYtPAigQFjAAegQICRAC&url=https%3A%2F%2Ffaculty.psau.edu.sa%2Ffiledownload%2Fdoc-7-pdf-a154ffbcec538a4161a406abf62f5b76-original.pdf&usg=AOvVaw0i7pLrlBs9LMW296xeV6b0)
 
+## C++
+
+[Cpp Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md)
+
+[C++ reference](https://en.cppreference.com/w/)
+
+[News, Status & Discussion about Standard C++](https://isocpp.org)
+
+[C++11 Memomy Model](https://people.cs.pitt.edu/~xianeizhang/notes/cpp11_mem.html)
+
+
+## CppCon
+
+[CppCon 2018 Presentation Materials](https://github.com/CppCon/CppCon2018)
+
+[CppCon 2017 Presentation Materials](https://github.com/CppCon/CppCon2017)
+
+[CppCon 2016 Presentation Materials](https://github.com/CppCon/CppCon2016)
+
+[CppCon 2015 Presentation Materials](https://github.com/CppCon/CppCon2015)
+
+[CppCon 2014 Presentation Materials](https://github.com/CppCon/CppCon2014)
+
+
+## C++ QUICK TIPS AND TRICKS
+
+[The Rule Of Five](https://cpppatterns.com/patterns/rule-of-five.html)
+
 ## Articles
 
 [MAKING CRASH BANDICOOT BY ANDY GAVIN AND JASON RUBIN](https://www.naughtydog.com/blog/making_crash_bandicoot_by_andy_gavin_and_jason_rubin)
@@ -42,13 +70,19 @@ _gamasutra_ [The Secrets Of Enemy AI In Uncharted 2](https://www.gamasutra.com/v
 
 ## Guerrilla Games
 
+<sup>The tags added by _italic_ font</sup>
+
 2018 [CREATING A TOOLS PIPELINE FOR HORIZON ZERO DAWN](https://d1z4o56rleaq4j.cloudfront.net/downloads/assets/GDC2017_Sumaili_VanDerSteen_CreatingAToolsPipelineForHorizonZeroDawn.pdf?mtime=20170307154856) _Decima: Review the tools and runtime engine_
 
-2017 [PUTTING THE AI BACK INTO AIR](https://www.guerrilla-games.com/read/putting-the-ai-back-into-air) _Air Natigating, Height Map Navigation wih Mipmaps, Path Finding_
+2017 [PUTTING THE AI BACK INTO AIR](https://www.guerrilla-games.com/read/putting-the-ai-back-into-air) _Air Navigation, Height Map Navigation with Mipmaps, Path Finding_
 
 2017 [THE AI OF HORIZON ZERO DAWN](https://d1z4o56rleaq4j.cloudfront.net/downloads/assets/The-AI-of-Horizon-Zero-Dawn.pdf?mtime=20171123123153) _Agents, Hierarchical Task Network, Roles, Perception, Navigation_
 
-GCAP2017 [DECIMA VISIBILITY HORIZON ZERO DAWN](https://d1z4o56rleaq4j.cloudfront.net/downloads/assets/GCAP2017_DecimaVisibility.pdf?mtime=20171120133325)
+GCAP2017 [DECIMA VISIBILITY HORIZON ZERO DAWN](https://d1z4o56rleaq4j.cloudfront.net/downloads/assets/GCAP2017_DecimaVisibility.pdf?mtime=20171120133325) _Occlusion culing, Geometry Filtering, GPU, APU_
+
+2005 [The Guerrilla Guide to Game Code](https://d1z4o56rleaq4j.cloudfront.net/downloads/assets/Rouwe05_GuerrillaGuideToGameCode.pdf?mtime=20160418102916) _GFS, Runtime Model, Entity, MVC, Transform interpolation with two time steps process (Anti Jitter)_
+
+2018 [BEYOND KILLZONE: CREATING NEW AI SYSTEMS FOR HORIZON ZERO DAWN](https://www.guerrilla-games.com/read/beyond-killzone-creating-new-ai-systems-for-horizon-zero-dawn) _Navigation path, Curvature, Animation blending, Look At_
 
 ##  Interactive Cinematics
 
@@ -58,34 +92,16 @@ _2016_ NAUGHTY DOG [UNCHARTED 2: CREATING AN ACTIVE CINEMATIC EXPERIENCE](http:/
 
 _2010_ [CINEMATICS SANS CUTSCENES](http://www.gameanim.com/2010/04/23/cinematics-sans-cutscenes/) 
 
-## C++
 
-[Cpp Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md)
+## ALGORYTHMS
 
-[C++ reference](https://en.cppreference.com/w/)
+[List of algorithms](https://en.wikipedia.org/wiki/List_of_algorithms)
 
-[News, Status & Discussion about Standard C++](https://isocpp.org)
+[Top 10 Algorithms and Data Structures for Competitive Programming](https://www.geeksforgeeks.org/top-algorithms-and-data-structures-for-competitive-programming/)
 
+[Top Algorithms/Data Structures/Concepts every computer science student should know](https://medium.com/@codingfreak/top-algorithms-data-structures-concepts-every-computer-science-student-should-know-e0549c67b4ac)
 
-## CppCon
-
-[CppCon 2018 Presentation Materials](https://github.com/CppCon/CppCon2018)
-
-[CppCon 2017 Presentation Materials](https://github.com/CppCon/CppCon2017)
-
-[CppCon 2016 Presentation Materials](https://github.com/CppCon/CppCon2016)
-
-[CppCon 2015 Presentation Materials](https://github.com/CppCon/CppCon2015)
-
-[CppCon 2014 Presentation Materials](https://github.com/CppCon/CppCon2014)
-
-## Games Hacking & Reverse Engineering
-
-[Crash Bandicoot Hacking Wikia](http://crash-hacking.wikia.com/wiki/Crash_Bandicoot_Hacking_Wikia)
-
-[Disassembling Jak & Daxter](https://github.com/rmitton/goaldis)
-
-[Disassembling Jak & Daxter - goaldis on GitHub](https://github.com/rmitton/goaldis)
+[Изучаем алгоритмы: полезные книги, веб-сайты, онлайн-курсы и видеоматериалы](https://proglib.io/p/awesome-algorithms/)
 
 
 ## LISP & 3D
@@ -100,6 +116,11 @@ Fun LISP course from [Baggers](https://github.com/cbaggers)
 
 [CEPL](https://www.youtube.com/playlist?list=PL2VAYZE_4wRKKr5pJzfYD1w4tKCXARs5y)
 
-## C++ QUICK TIPS AND TRICKS
+## Games Hacking & Reverse Engineering
 
-[The Rule Of Five](https://cpppatterns.com/patterns/rule-of-five.html)
+[Crash Bandicoot Hacking Wikia](http://crash-hacking.wikia.com/wiki/Crash_Bandicoot_Hacking_Wikia)
+
+[Disassembling Jak & Daxter](https://github.com/rmitton/goaldis)
+
+[Disassembling Jak & Daxter - goaldis on GitHub](https://github.com/rmitton/goaldis)
+

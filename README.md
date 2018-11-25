@@ -1,6 +1,6 @@
 ## Game Programmer Reading
 
-Game development documentation and institutional collection 
+My collection of Game Development and Technology Articles and Tutorials.
 
 ## Books
 

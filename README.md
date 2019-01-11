@@ -8,9 +8,22 @@ My collection of Game Development and Technology Articles and Tutorials.
 
 [Artificial Intelligence A Modern Approach Third Edition](https://www.google.ru/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=2ahUKEwiuw9bFsL3eAhWyiqYKHYtPAigQFjAAegQICRAC&url=https%3A%2F%2Ffaculty.psau.edu.sa%2Ffiledownload%2Fdoc-7-pdf-a154ffbcec538a4161a406abf62f5b76-original.pdf&usg=AOvVaw0i7pLrlBs9LMW296xeV6b0)
 
+[3D Math: Primer for Graphics and Game Development](https://tfetimes.com/wp-content/uploads/2015/04/F.Dunn-I.Parberry-3D-Math-Primer-for-Graphics-and-Game-Development.pdf)
+
+## C++ Books
+
+[The C++ Programming Language](http://www.amazon.com/dp/0321958322) (Bjarne Stroustrup) [C++11]
+
+[Effective Modern C++](http://www.amazon.com/dp/1491903996) (Scott Meyers) [C++11/14]
+
+[Overview of the New C++](http://www.artima.com/shop/overview_of_the_new_cpp) (Scott Meyers) [C++11/14]
+
+[C++ Concurrency in Action](http://www.cplusplusconcurrencyinaction.com) (Anthony Williams) [C++11/14/17] - Using the C++ Concurrency Library
+
+
 ## C++
 
-[Cpp Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md)
+[C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines) (Bjarne Stroustrup, Herb Sutter) [C++11/14/17] - Guidelines for using modern C++.
 
 [C++ reference](https://en.cppreference.com/w/)
 
@@ -18,6 +31,7 @@ My collection of Game Development and Technology Articles and Tutorials.
 
 [C++11 Memomy Model](https://people.cs.pitt.edu/~xianeizhang/notes/cpp11_mem.html)
 
+[Awesome Modern C++](https://github.com/rigtorp/awesome-modern-cpp) _A collection of resources on modern C++_
 
 ## CppCon
 
@@ -84,6 +98,12 @@ GCAP2017 [DECIMA VISIBILITY HORIZON ZERO DAWN](https://d1z4o56rleaq4j.cloudfront
 
 2018 [BEYOND KILLZONE: CREATING NEW AI SYSTEMS FOR HORIZON ZERO DAWN](https://www.guerrilla-games.com/read/beyond-killzone-creating-new-ai-systems-for-horizon-zero-dawn) _Navigation path, Curvature, Animation blending, Look At_
 
+2018 [NUBIS: REALTIME VOLUMETRIC CLOUDSCAPES IN A NUTSHELL](https://www.guerrilla-games.com/read/nubis-realtime-volumetric-cloudscapes-in-a-nutshell)
+
+2017 [GPU-based Procedural Placement in Horizon Zero Dawn](https://d1z4o56rleaq4j.cloudfront.net/downloads/assets/GDC2017_VanMuijden_GPUBasedProceduralPlacementInHorizonZeroDawn.pdf?mtime=20170307153432)
+
+2017 [DECIMA ENGINE: ADVANCES IN LIGHTING AND AA](https://www.guerrilla-games.com/read/decima-engine-advances-in-lighting-and-aa)
+
 ##  Interactive Cinematics
 
 _2108_ NAUGHTY DOG [INTERACTIVE CINEMATICS IN UNCHARTED](http://www.gameanim.com/2018/03/09/interactive-cinematics-in-uncharted-4/)
@@ -123,4 +143,8 @@ Fun LISP course from [Baggers](https://github.com/cbaggers)
 [Disassembling Jak & Daxter](https://github.com/rmitton/goaldis)
 
 [Disassembling Jak & Daxter - goaldis on GitHub](https://github.com/rmitton/goaldis)
+
+## Cheat Sheets
+
+[Cheat Sheets for AI, Neural Networks, Machine Learning, Deep Learning & Big Data](https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463)
 
